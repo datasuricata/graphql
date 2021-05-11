@@ -14,6 +14,6 @@ para criar o banco de dados com efcore
 
 para rodar a aplicação
 - dotnet run
-
+- acesse https://localhost:PORTA/graphql
 
 https://github.com/ChilliCream/hotchocolate
